@@ -1,13 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28da4ea2-538e-419a-b8b6-f9d83d6f3cd2" name="Default Changelist" comment="" />
+    <list default="true" id="28da4ea2-538e-419a-b8b6-f9d83d6f3cd2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Administrativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tecnico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospital.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WialT5X0flBHY9rMk1AvctYTsm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +33,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -41,6 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1579635019948</updated>
       <workItem from="1579635022698" duration="454000" />
+      <workItem from="1579808805910" duration="1134000" />
     </task>
     <servers />
   </component>
@@ -48,6 +71,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="440" y="187" key="#Project_Structure" timestamp="1579809454937">
+      <screen x="0" y="23" width="1680" height="998" />
+    </state>
+    <state x="440" y="187" key="#Project_Structure/0.23.1680.998@0.23.1680.998" timestamp="1579809454937" />
+    <state x="304" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579809398014">
+      <screen x="0" y="23" width="1680" height="998" />
+    </state>
+    <state x="304" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.998@0.23.1680.998" timestamp="1579809398014" />
     <state x="649" y="445" key="Github.CreateGistDialog" timestamp="1579808881407">
       <screen x="0" y="23" width="1680" height="998" />
     </state>
@@ -56,5 +87,13 @@
       <screen x="0" y="23" width="1680" height="998" />
     </state>
     <state x="495" y="208" key="com.intellij.ide.util.TipDialog/0.23.1680.998@0.23.1680.998" timestamp="1579808833250" />
+    <state x="666" y="49" width="1014" height="938" key="dock-window-1" timestamp="1579810038573">
+      <screen x="0" y="23" width="1680" height="998" />
+    </state>
+    <state x="666" y="49" width="1014" height="938" key="dock-window-1/0.23.1680.998@0.23.1680.998" timestamp="1579810038573" />
+    <state x="234" y="144" key="new project wizard" timestamp="1579809475457">
+      <screen x="0" y="23" width="1680" height="998" />
+    </state>
+    <state x="234" y="144" key="new project wizard/0.23.1680.998@0.23.1680.998" timestamp="1579809475457" />
   </component>
 </project>

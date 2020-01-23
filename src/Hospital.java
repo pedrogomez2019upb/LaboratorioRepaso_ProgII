@@ -1,4 +1,9 @@
-package PACKAGE_NAME;
-
+//##############################
+//CLASE HOSPITAL
+//##############################
 public class Hospital {
+
+    public class Departamento{
+
+    }
 }
