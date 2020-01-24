@@ -6,7 +6,7 @@ public class Operacion extends Hospital.Departamento {
 
     static public class Doctor {
 
-        
+
     }
     public class Enfermera {
 
