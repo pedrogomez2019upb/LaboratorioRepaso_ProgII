@@ -11,5 +11,8 @@ public class Persona {
     String nombrePila;
     String segundoNombre;
     String apellido;
+
+    public Persona(){}
+    
 }
 //Desarrollado por Pedro Gomez , Angela Remolina & Paula Caicedo
