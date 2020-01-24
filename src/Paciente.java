@@ -1,8 +1,7 @@
-import java.util.Date;
-
+//##############################
+//CLASE PACIENTE
+//##############################
 public class Paciente extends Persona {
-    int edad;
-    Date fechaNacimiento;
-    Date fechaActual_Ingreso;
 
 }
+//Desarrollado por Pedro Gomez , Angela Remolina & Paula Caicedo

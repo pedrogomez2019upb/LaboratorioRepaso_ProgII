@@ -1,13 +1,12 @@
 //##############################
 //CLASE OPERACION
 //##############################
-
 public class Operacion extends Hospital.Departamento {
 
     static public class Doctor {
 
     }
-    static public class Enfermera {
+    public class Enfermera {
 
     }
 
