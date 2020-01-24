@@ -1,6 +1,7 @@
 //##############################
 //CLASE PACIENTE
 //##############################
+//Se crea la clase "Paciente" la cual hereda de la clase "Persona"
 public class Paciente extends Persona {
 
 }

@@ -1,6 +1,7 @@
 //##############################
 //CLASE PERSONA
 //##############################
+//Se crea la clase "Persona"
 public class Persona {
     //##############################
     //Creacion atributos

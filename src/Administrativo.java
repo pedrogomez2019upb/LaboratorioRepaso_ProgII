@@ -1,12 +1,8 @@
 //##############################
 //CLASE ADMINISTRATIVO
 //##############################
+//Se crea la clase "Administrativo" la cual hereda de la clase "Departamento"
 public class Administrativo extends Hospital.Departamento {
 
-
-    public Administrativo(){
-
-        super();
-    }
 }
 //Desarrollado por Pedro Gomez , Angela Remolina & Paula Caicedo
