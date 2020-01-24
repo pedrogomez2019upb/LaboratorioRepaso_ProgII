@@ -13,6 +13,6 @@ public class Persona {
     String apellido;
 
     public Persona(){}
-    
+
 }
 //Desarrollado por Pedro Gomez , Angela Remolina & Paula Caicedo

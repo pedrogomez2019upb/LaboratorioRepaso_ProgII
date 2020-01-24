@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="28da4ea2-538e-419a-b8b6-f9d83d6f3cd2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Administrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Administrativo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Asociado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Asociado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Empleado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Empleado.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Hospital.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospital.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Paciente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Paciente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operacion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operacion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Persona.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1579635019948</updated>
       <workItem from="1579635022698" duration="454000" />
-      <workItem from="1579808805910" duration="2502000" />
+      <workItem from="1579808805910" duration="3159000" />
+      <workItem from="1579834721185" duration="192000" />
     </task>
     <servers />
   </component>
@@ -85,10 +89,10 @@
       <screen x="0" y="23" width="1680" height="998" />
     </state>
     <state x="495" y="208" key="com.intellij.ide.util.TipDialog/0.23.1680.998@0.23.1680.998" timestamp="1579808833250" />
-    <state x="666" y="49" width="1014" height="938" key="dock-window-1" timestamp="1579810038573">
+    <state x="666" y="49" width="1014" height="938" key="dock-window-1" timestamp="1579834731106">
       <screen x="0" y="23" width="1680" height="998" />
     </state>
-    <state x="666" y="49" width="1014" height="938" key="dock-window-1/0.23.1680.998@0.23.1680.998" timestamp="1579810038573" />
+    <state x="666" y="49" width="1014" height="938" key="dock-window-1/0.23.1680.998@0.23.1680.998" timestamp="1579834731106" />
     <state x="234" y="144" key="new project wizard" timestamp="1579809475457">
       <screen x="0" y="23" width="1680" height="998" />
     </state>

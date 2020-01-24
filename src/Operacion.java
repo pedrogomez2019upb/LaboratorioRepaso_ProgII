@@ -4,10 +4,10 @@
 
 public class Operacion extends Hospital.Departamento {
 
-    public class Doctor {
+    static public class Doctor {
 
     }
-    public class Enfermera {
+    static public class Enfermera {
 
     }
 

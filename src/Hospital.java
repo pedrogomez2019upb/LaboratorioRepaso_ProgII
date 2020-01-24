@@ -1,13 +1,14 @@
-import java.util.List;
-
 //##############################
 //CLASE HOSPITAL
 //##############################
 public class Hospital {
+    public Hospital(){
 
-    public class Departamento{
+    }
+
+    static public class Departamento{
         public Departamento(){ }
-        List <Empleado> listaEmpleados;
 
     }
 }
+//Desarrollado por Pedro Gomez , Angela Remolina & Paula Caicedo
