@@ -3,7 +3,10 @@
 //##############################
 public class Hospital {
 
-    public class Departamento{
+    public Hospital() {
+    }
+
+    static public class Departamento{
         public Departamento(){
 
         }
